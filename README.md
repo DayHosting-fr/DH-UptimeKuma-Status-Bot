@@ -12,7 +12,7 @@
 
 <img src="https://media.discordapp.net/attachments/1204549942375620628/1237933803347906580/image.png?ex=68098eb2&is=68083d32&hm=aa72a46ca6b4c12a55561efc269ee69e68d2be9d6b58b8596be24e8eb7e6746d&=&format=webp&quality=lossless" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://media.discordapp.net/attachments/1204549942375620628/1237942444859985931/image.png?ex=680996be&is=6808453e&hm=ceb91c8691f519d0a779313284d7464e3d8edd0aa537184e138535e74de7e092&=&format=webp&quality=lossless" alt="project-screenshot" width="400" height="400/">
+<img src="https://media.discordapp.net/attachments/1204549942375620628/1237942444859985931/image.png?ex=680996be&is=6808453e&hm=ceb91c8691f519d0a779313284d7464e3d8edd0aa537184e138535e74de7e092&=&format=webp&quality=lossless" alt="project-screenshot" width="400">
 
 <h2>🛠️ Installation Steps:</h2>
 
