@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3cf285cd-79f5-42fa-b00b-aef6c4a17dfe)<h1 align="center" id="title">DH-DiscordBot</h1>
+<h1 align="center" id="title">DH-DiscordBot</h1>
 
 <p align="center"><img src="https://socialify.git.ci/DayHosting-fr/DH-UptimeKuma-Status-Bot/image?forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto" alt="DH-UptimeKuma-Status-Bot" width="640" height="320" /></p>
 
@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46052347/442161236-c3564a1e-8637-4eec-982d-253597eb0498.png" alt="project-screenshot" width="400" height="400/">
+![image](https://github.com/user-attachments/assets/3cf285cd-79f5-42fa-b00b-aef6c4a17dfe)
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46052347/442160939-fe149384-948b-4dc6-845d-fd47036529b4.png" alt="project-screenshot" width="400">
+![image](https://github.com/user-attachments/assets/c92d7ec8-de0f-47b1-b39a-97d9af6ce50e)
 
 <h2>🛠️ Installation Steps:</h2>
 
