@@ -1,0 +1,9 @@
+{
+  "UPTIME_KUMA_SERVER": "",
+  "UPTIME_KUMA_USERNAME":"",
+  "UPTIME_KUMA_PASSWORD":"",
+  "DISCORD_BOT_TOKEN": "",
+  "COMMAND_PREFIX": "!!",
+  "CHANNEL_ID": 0,
+  "ACTIVITY_NAME": "Bot in Dev"
+}
