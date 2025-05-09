@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://media.discordapp.net/attachments/1259925882529648763/1370396853794902159/Capture_decran_2024-05-09_052326.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46052347/442161236-c3564a1e-8637-4eec-982d-253597eb0498.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://media.discordapp.net/attachments/1259925882529648763/1370396854126116958/Capture_decran_2024-05-09_133145.png" alt="project-screenshot" width="400">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46052347/442160939-fe149384-948b-4dc6-845d-fd47036529b4.png" alt="project-screenshot" width="400">
 
 <h2>🛠️ Installation Steps:</h2>
 
