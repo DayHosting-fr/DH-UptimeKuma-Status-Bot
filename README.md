@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/DayHosting-fr/DH-UptimeKuma-Status-Bot/image?forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Auto" alt="DH-UptimeKuma-Status-Bot" width="640" height="320" /></p>
 
-<p id="description">Introducing DayHosting Bot a versatile Discord bot equipped with a web interface. This bot serves as a default multipurpose tool capable of performing various functions. Among its capabilities it regularly checks the status of servers using the Uptime Kuma API. It logs into the Uptime Kuma server retrieves the status of all servers and sends an embedded message in a Discord channel with the status of each server. The bot updates this information every 60 seconds to ensure accurate and up-to-date data.</p>
+<p id="description">Introducing DayHosting Bot a versatile Discord bot. This bot serves as a default multipurpose tool capable of performing various functions. Among its capabilities it regularly checks the status of servers using the Uptime Kuma API. It logs into the Uptime Kuma server retrieves the status of all servers and sends an embedded message in a Discord channel with the status of each server. The bot updates this information every 60 seconds to ensure accurate and up-to-date data.</p>
 
 <h2>🚀 Demo</h2>
 
